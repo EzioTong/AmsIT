@@ -1,0 +1,14 @@
+E:\AmsIT\AmsIT\obj\Debug\AmsIT.Properties.Resources.resources
+E:\AmsIT\AmsIT\obj\Debug\AmsIT.csproj.GenerateResource.cache
+E:\AmsIT\AmsIT\obj\Debug\AmsIT.csproj.CoreCompileInputs.cache
+E:\AmsIT\AmsIT\bin\Debug\AmsIT.exe.config
+E:\AmsIT\AmsIT\bin\Debug\AmsIT.exe
+E:\AmsIT\AmsIT\bin\Debug\AmsIT.pdb
+E:\AmsIT\AmsIT\obj\Debug\AmsIT.exe
+E:\AmsIT\AmsIT\obj\Debug\AmsIT.pdb
+E:\AmsIT\AmsIT\obj\Debug\AmsIT.csproj.AssemblyReference.cache
+E:\AmsIT\AmsIT\obj\Debug\AmsIT.login.resources
+E:\AmsIT\AmsIT\obj\Debug\AmsIT.admin1.resources
+E:\AmsIT\AmsIT\obj\Debug\AmsIT.admin2.resources
+E:\AmsIT\AmsIT\obj\Debug\AmsIT.admin21add.resources
+E:\AmsIT\AmsIT\obj\Debug\AmsIT.admin22edit.resources
